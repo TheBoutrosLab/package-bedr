@@ -1,5 +1,12 @@
-# bedr 1.1.4 (2025-06-17)
+# bedr 1.1.5 (2026-01-22)
 
+## Changed
+
+- Update maintainer email to pboutros@sbpdiscovery.org
+- Update GitHub organization from uclahs-cds to theboutroslab
+- Rename repository from public-R-bedr to package-bedr
+
+# bedr 1.1.4 (2025-06-17)
 
 ## Changed
 

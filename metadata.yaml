@@ -1,7 +1,7 @@
 ---
 Category: 'tool'
 Description: 'Genomic Region Processing using Tools Such as "BEDTools", "BEDOPS" and "Tabix"'  # Description of why the repository exists
-Maintainers: ['pboutros@mednet.ucla.edu']  # email address of maintainers
+Maintainers: ['pboutros@sbpdiscovery.org']  # email address of maintainers
 Contributors: ['Syed Haider', 'Daryl Waggott', 'Emilie Lalonde', 'Clement Fung', 'Helena Winata', 'Paul C. Boutros']
 Languages: ['R']  # programming languages used
 Dependencies: ['R (>= 3.0)', 'knitr (>= 1.4)', 'rmarkdown (>= 0.9.5)']  # packages, tools that repo needs to run
