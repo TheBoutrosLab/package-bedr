@@ -29,7 +29,7 @@ Or to install the latest development version from Github:
 # If `devtools` is not already installed, run:
 # install.packages('devtools');
 
-devtools::install_github('uclahs-cds/public-R-bedr');
+devtools::install_github('theboutroslab/package-bedr');
 ```
 
 ## Usage examples
@@ -211,15 +211,15 @@ Available resources for bedr include the package [CRAN page](https://cran.r-proj
 
 ## Getting help
 
-For guidance or support with bedr check out [Discussions](https://github.com/uclahs-cds/public-R-bedr/discussions)
+For guidance or support with bedr check out [Discussions](https://github.com/theboutroslab/package-bedr/discussions)
 
-See [Issues](https://github.com/uclahs-cds/public-R-bedr/issues) to submit bugs, suggest new features or view current works
+See [Issues](https://github.com/theboutroslab/package-bedr/issues) to submit bugs, suggest new features or view current works
 
-[Pull requests](https://github.com/uclahs-cds/public-R-bedr/pulls) are also open for discussion.
+[Pull requests](https://github.com/theboutroslab/package-bedr/pulls) are also open for discussion.
 
 ## Contributors
 
-Contributors to this package can be viewed [here](https://github.com/uclahs-cds/public-R-bedr/graphs/contributors) on GitHub.
+Contributors to this package can be viewed [here](https://github.com/theboutroslab/package-bedr/graphs/contributors) on GitHub.
 
 ## Citation information
 
@@ -247,7 +247,7 @@ A BibTeX entry for LaTeX users is:
 
 ## License
 
-Author: Syed Haider, Daryl Waggott, Emilie Lalonde, Clement Fung, Helena Winata, Dan Knight, Takafumi Yamaguchi, Nicholas Wang & Paul C. Boutros (PBoutros@mednet.ucla.edu)
+Author: Syed Haider, Daryl Waggott, Emilie Lalonde, Clement Fung, Helena Winata, Dan Knight, Takafumi Yamaguchi, Nicholas Wang & Paul C. Boutros (PBoutros@sbpdiscovery.org)
 
 bedr is licensed under the GNU General Public License version 2. See the file LICENSE.md for the terms of the GNU GPL license.
 
